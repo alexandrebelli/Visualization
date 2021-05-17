@@ -9,5 +9,5 @@ This code displays the average tempertaure in France using "Seaborn"
 Visualization of the 2016's earthquakes using "Cartopy"
 
 ## Bar_chart_DORIS_Belli_et_al2021
-This code is an example of bar chart. For more information about it, please read my article: https://www.sciencedirect.com/science/article/pii/S0273117720308346
+This code is an example of a bar plot. For more information about it, please read my article where the plot is published: https://www.sciencedirect.com/science/article/pii/S0273117720308346
 
